@@ -1,4 +1,5 @@
-This was my final project for my embedded systems class at UCR in spring 2024 (made during the last 3 weeks of school). It was made using the Elegoo Uno 3 (atmega 328 microcontroller). Below is most of my project report.
+This was my final project for my embedded systems class at UCR as it was in spring 2024 (made during the last 3 weeks of school). It was made using the Elegoo Uno 3 (atmega 328 microcontroller). Below is most of my project report.  
+I have since been expanded upon it, moving it off of the Arduino onto the bare microcontroller and designing a custom PCB and 3d-printed case.
 
 # Project Overview
 
